@@ -3,8 +3,6 @@ public class Main {
         System.out.println("Hello VitaminCode03");
         System.out.println("My name is Khoa");
         System.out.println("Thay doi test push len --> Su thay doi : Loc");
-        System.out.println("we're gay");
-        System.out.println("i'm not gay");
     }
     public class bai1 {
         static Scanner sc = new Scanner(System.in);
